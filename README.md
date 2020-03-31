@@ -1,6 +1,5 @@
 # lifestyle-beauty-parlor
-salon
-<!DOCTYPE html>
+
 <html>
 <head>
   
@@ -14,12 +13,12 @@ salon
     
     <img src="https://images.app.goo.gl/BNh7jSjv4SNRrv3i6" width="350" height="400" style="vertical-align: text-top" alt="lifestyle beaty parlor">
 
-    </body>
+  
 
 <body>
      <p><i>
-  <a href="http://https://images.app.goo.gl/dpynR1cNHV51J1Su8"" target="_top">
-<!-- </textarea></xmp> -->
+  <a href="http://images.app.goo.gl/dpynR1cNHV51J1Su8"" target="_top">
+<!-- </textarea>leave comments here</xmp> -->
   <img src="https://images.app.goo.gl/BNh7jSjv4SNRrv3i6" width="525" height="452" alt="">
   lifestyle beauty parlor is
   offering a range of professionals hair and nail treatments including<br/>
@@ -31,17 +30,18 @@ salon
 <a href="http://www.google.com/sally salon" target="_top"><img src="https://images.app.goo.gl/pbAPp5sMKgPLsQP17" width="350" height="550" alt=""></a>
 
   
+  <script src="https://github.githubassets.com/static/javascripts/codemirror/mode/gfm/gfm.js?v=1"></script>
   
+  <script crossorigin="anonymous" async="async" integrity="sha512-P0hsO7UK7iVqI/jzze4jGNIA36n3AYg7KzFOYuRjd6wR0ACyL65mWoOVEaV+k5QMNKJRS7tw5aEg7MTuumi9Mg==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-3f486c3b.js"></script>
   
-  
- contact</p>
+ contact
  0722507623
   </i></p>
 </body>
 <body>
 <p style="color:#FF299C;">
 lifestyle beauty parlor is always in style, it premiers for sustianable beauty by davines &creuntly free innovation.<br/>
-</div>
+
 <div style="background-color:Darkorchid">
 well, regardless of how posh it may be,<br/>
  there is a possibly of contracting diseases when undrgoing a manicure, pedicure or having your  hair done<br/>
