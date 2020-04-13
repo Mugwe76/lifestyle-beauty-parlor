@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## lifestyle beauty parlor 
 
 You can use the [editor on GitHub](https://github.com/Mugwe76/lifestyle-beauty-parlor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
